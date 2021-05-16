@@ -17,3 +17,5 @@ if __name__ == '__main__':
     print('how are you?')
 
     print(my_function(2, 4))
+
+    x = 3
